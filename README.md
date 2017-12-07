@@ -1,13 +1,15 @@
 # template-ejb
 <h1 align="center">
   <br>
-  <img src="jee.png" />
+  <img src="jee.png"  height="300" width="300"/>
    
   </h1>
 A brief tutorial about JEE(Part 1 EJB).
 
 ### Getting Started
- <center><img src="ejb.jpg" /></center>
+  <h1 align="center" ><img src="ejb.jpg"  height="150" width="150"/> </h1>
+  <hr>
+  
 **EJB** :Enterprise Java Beans (EJB) is a development architecture for building highly scalable and robust enterprise level applications to be deployed on J2EE compliant Application Server such as JBOSS, Web Logic etc. EJB 3.0 is being a great shift from EJB 2.0 and makes development of EJB based applications quite easy. This tutorial is developed to provide a comprehensive understanding about the EJB concepts helpful to create and deploy an enterprise level application up and running.
 <hr>
 
