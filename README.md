@@ -1,7 +1,7 @@
 # template-ejb
 <h1 align="center">
   <br>
-  <img src="jee.png"  height="300" width="300"/>
+  <img src="jee.png"  height="60%" width="60%"/>
    
   </h1>
 A brief tutorial about JEE(Part 1 EJB).
