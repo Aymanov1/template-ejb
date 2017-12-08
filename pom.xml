@@ -11,6 +11,12 @@
 			<version>7.0</version>
 			<scope>provided</scope>
 		</dependency>
+		<dependency>
+			<groupId>org.hibernate</groupId>
+			<artifactId>hibernate-core</artifactId>
+			<version>3.6.10.Final</version>
+		</dependency>
+
 	</dependencies>
 	<properties>
 		<maven.compiler.source>1.7</maven.compiler.source>
